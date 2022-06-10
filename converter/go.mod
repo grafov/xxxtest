@@ -1,4 +1,4 @@
-module github.com/grafov/xxxtest/converter
+module github.com/grafov/xxxtest/converter/tag
 
 go 1.18
 
